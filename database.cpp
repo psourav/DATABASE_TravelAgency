@@ -1,4 +1,3 @@
-//SOURAV PRAKASH PADHIARI, 3035346635
 
 #include <iostream>
 #include <fstream>
